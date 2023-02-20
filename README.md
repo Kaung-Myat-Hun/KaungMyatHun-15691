@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Facebook Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024004446712)
+- :mailbox:How to reach me: [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024004446712)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
