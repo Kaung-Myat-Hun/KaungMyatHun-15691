@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 </div>
 
 ### About me!
-- :telescope: I’m working as a Junior Frontend Web Developer for building web applications.
+ :telescope: I’m working as a Junior Frontend Web Developer for building web applications.
 
-- :seedling: Exploring Web Content and Design.
+ :seedling: Exploring Web Content and Design.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+ :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024004446712)
+ :mailbox:How to reach me: [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024004446712)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
