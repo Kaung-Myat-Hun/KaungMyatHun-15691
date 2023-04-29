@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 ### About me!
- :telescope: I’m working as a Junior Frontend Web Developer for building web applications.
+ :telescope: I’m working as Frontend Web Developer for building web applications with ReactJS and Angular JS.
 
  :seedling: Exploring Web Content and Design.
 
